@@ -1,22 +1,81 @@
-<h1 align="center">Hi 👋, I'm Hassam Shahid</h1>
-<h3 align="center">On a Data Science Journey | From Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Hassam Shahid</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hassam-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="m-hassam-shahid" /> </p>
+<h3 align="center">Data Science Undergraduate | Aspiring Data Analyst | Pakistan 🇵🇰</h3>
 
-- 🌱 I’m currently learning **Python , SQL Fundamentals**
-
-- 📫 How to reach me **hassams186@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hassam-shahid-78a5a128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hassam-shahid-78a5a128a" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-hassam-shahid&label=Profile%20Views&color=0e75b6&style=flat" alt="m-hassam-shahid" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hassam-shahid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="m-hassam-shahid" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-hassam-shahid&show_icons=true&theme=highcontrast&locale=en" alt="m-hassam-shahid" /></p>
+* 🎓 Data Science undergraduate student
+* 📊 Interested in **Data Analytics and Data Science**
+* 🐍 Experienced with **Python for data analysis and machine learning**
+* 🗄️ Working with **SQL and relational databases**
+* 📈 Comfortable with **Excel and data analysis**
+* 🤖 Interested in **Machine Learning and predictive modeling**
+* 🚀 Currently building projects to strengthen my practical skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hassam-shahid&theme=highcontrast" alt="m-hassam-shahid" /></p>
+### 🛠️ Skills
+
+**Programming & Data Analysis**
+
+* Python
+* SQL
+* Excel
+* Pandas
+* NumPy
+
+**Machine Learning**
+
+* Scikit-Learn
+* Linear Regression
+* Logistic Regression
+* Random Forest
+* Feature Engineering
+* Model Evaluation
+* Data Preprocessing
+
+**Tools & Platforms**
+
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* Git
+* GitHub
+
+### 📂 Projects
+
+* **Customer Churn Prediction** — Machine Learning project using data preprocessing, feature engineering, Logistic Regression and Random Forest.
+* **Air Quality Prediction** — Data analysis and machine learning project focused on AQI prediction.
+* **Education AI Co-Pilot** — AI/ML project developed as part of an AI hackathon.
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/hassam-shahid-78a5a128a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Hassam Shahid" height="30" width="40" />
+  </a>
+</p>
+
+### 📫 Contact
+
+**Email:** [hassams186@gmail.com](mailto:hassams186@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hassam-shahid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-hassam-shahid&show_icons=true&theme=highcontrast&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hassam-shahid&theme=highcontrast" alt="GitHub Streak" />
+</p>
