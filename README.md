@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Data Science undergraduate student
+* 🎓 Data Science Final Year student
 * 📊 Interested in **Data Analytics and Data Science**
 * 🐍 Experienced with **Python for data analysis and machine learning**
 * 🗄️ Working with **SQL and relational databases**
