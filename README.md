@@ -48,6 +48,7 @@
 
 ### 📂 Projects
 
+* **RAG Chatbot** — Retrieval-Augmented Generation project using LangChain, Groq API, Hugging Face embeddings and ChromaDB for PDF-based question answering.
 * **Customer Churn Prediction** — Machine Learning project using data preprocessing, feature engineering, Logistic Regression and Random Forest.
 * **Air Quality Prediction** — Data analysis and machine learning project focused on AQI prediction.
 * **Education AI Co-Pilot** — AI/ML project developed as part of an AI hackathon.
